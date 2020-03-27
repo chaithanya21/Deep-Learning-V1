@@ -14,5 +14,9 @@ Deleting the Existing Conda or Unneccessary Conda Env.
 <link>https://pip.pypa.io/en/stable/reference/pip_freeze/</link>
 
 
+<h2> Conda Myths and Misconceptions Article</h2>
+https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/
+
+
 
 
