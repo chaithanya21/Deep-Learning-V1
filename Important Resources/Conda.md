@@ -1,0 +1,13 @@
+<h1> How to Create a Virtual Conda Environment </h2>
+
+<link>https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/</link>
+
+
+Updaing the Existing Conda Environment,
+Creating a virtual Conda Environment,
+Switching to the Newly Created Conda env and Installing the Packages,
+Activating and Deactivating the conda env and
+Deleting the Existing Conda or Unneccessary Conda Env.
+
+
+
