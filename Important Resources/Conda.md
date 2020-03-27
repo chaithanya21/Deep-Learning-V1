@@ -10,4 +10,9 @@ Activating and Deactivating the conda env and
 Deleting the Existing Conda or Unneccessary Conda Env.
 
 
+<h2>PIP Freeze Example to Generate a requirements.txt file</h2>
+<link>https://pip.pypa.io/en/stable/reference/pip_freeze/</link>
+
+
+
 
