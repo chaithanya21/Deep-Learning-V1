@@ -9,6 +9,6 @@
 <h2>5.Model Deployment(Amazon Sagemaker/Cloud Computing): Deploying a Sentimental Analysis Model built using Pytorch Framework Using Aws and Amazon Sagemaker</h2>
 
 
-<h3> Datasets Links Used In Projects</h3>
+<h3> Dataset Links Used In Projects</h3>
 
 <ol>Predicting Student Admissions at UCLA Using a Simple Neural Network:Dataset:<link>http://www.ats.ucla.edu/</link></ol>
