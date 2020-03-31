@@ -10,3 +10,10 @@
 [why Momemtum Really Works:One Solution to Solve the Problem of Gradients Which Stuck at Local Minima](https://distill.pub/2017/momentum/)
 
 [<h2>Yes you should understand backprop By Andrej Karpathy</h2>](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.vt3ax2kg9)
+
+
+<h2> An Overview of Gradient Descent By Sebastian Ruder </h2>
+
+![Gradient Descent](https://ruder.io/content/images/size/w2000/2016/09/loss_function_image_tumblr.png)
+
+[An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
