@@ -8,4 +8,4 @@ Cross Entropy is also called as the Error Function/Loss/Cost Function for the Cl
 
 Hence a Maximizing the Probabilities is similar to that of Minimizing the Error Function.
 
-[To Know More about the Cross Entropy: Visit this Link by MachineLearning Mastery-A GENTLE INTRO TO CROSS-ENTROPY)](https://machinelearningmastery.com/cross-entropy-for-machine-learning/)
+[To Know More about the Cross Entropy: Visit this Link by MachineLearning Mastery-A GENTLE INTRO TO CROSS-ENTROPY](https://machinelearningmastery.com/cross-entropy-for-machine-learning/)
