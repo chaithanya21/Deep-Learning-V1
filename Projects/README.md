@@ -1,4 +1,6 @@
-<h2>1.Predicting the Bike Ridership (Based on the Bike Sharing Data wrt to the Given Weather Data) Using a Simple Neural Network</h2>
+<h2>1.Predicting the Bike Ridership (Based on the Bike Sharing Data wrt to the Given Weather Data) Using a Simple Neural Network</h2> 
+
+[Predicting Bike Sharing Patterns](https://github.com/chaithanya21/Predicting-Bike-Sharing-Patterns)
 
 <h2>2.Image Classification(CNN/Computer Vision): Classifying the type of Dog Breeds in the given Picture or an Image </h2>
 
