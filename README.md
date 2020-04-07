@@ -6,3 +6,8 @@ This Repository contains all the work Related to Deep Learning: Research Papers(
 
 [<h2>Machine Learning For Humans Medium Series</h2>](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
 
+
+<h2>Detailed Treatment of Vanishing Gradient Descent Problem In Neural Networks</h2>
+
+[<h2>Why Are Neural Networks Hard To Train?</h2>](http://neuralnetworksanddeeplearning.com/chap5.html)
+
